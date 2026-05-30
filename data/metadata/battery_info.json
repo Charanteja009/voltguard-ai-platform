@@ -1,0 +1,7 @@
+{
+  "source": "NASA PCoE",
+  "chemistry": "Lithium-ion",
+  "nominal_capacity_Ah": 2.0,
+  "end_of_life_threshold_pct": 80,
+  "processed_date": "2026-04-25"
+}
